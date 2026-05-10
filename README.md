@@ -1,9 +1,12 @@
 TinyScanner Compiler
+
 A simple compiler front-end built in C# with Windows Forms, developed as a university project.
 Features
 
-Phase 1 - Scanner (Lexical Analyzer): Tokenizes source code and detects lexical errors
-Phase 2 - Parser (Syntax Analyzer): Builds a Parse Tree from the token stream
+Phase 1 -
+Scanner (Lexical Analyzer): Tokenizes source code and detects lexical errors
+Phase 2 -
+Parser (Syntax Analyzer): Builds a Parse Tree from the token stream
 
 Supported Tokens
 
