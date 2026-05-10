@@ -9,7 +9,7 @@ Scanner (Lexical Analyzer): Tokenizes source code and detects lexical errors
 Phase 2 -
 Parser (Syntax Analyzer): Builds a Parse Tree from the token stream
 
-Supported Tokens
+Supported Tokens:
 
 
 Keywords: int, float, string, read, write, repeat, until, if, elseif, else, then, return, endl, main
