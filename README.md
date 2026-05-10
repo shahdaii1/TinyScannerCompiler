@@ -71,9 +71,9 @@ Sample Code:
 Technologies:
 
 
-C# .NET
+- C# .NET
 
-Windows Forms
+- Windows Forms
 
 
 
