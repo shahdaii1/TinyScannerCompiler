@@ -17,7 +17,7 @@ Operators: :=, +, -, *, /, =, <, >, <>, &&, ||
 Identifiers, Constants, String Literals
 
 
-How to Use
+How to Use:
 
 
 
@@ -33,7 +33,7 @@ How to Use
 
 
 
-Project Structure
+Project Structure:
 
  TinyScanner/
  
@@ -46,7 +46,7 @@ Project Structure
  └── Program.cs        # Entry Point
  
 
-Sample Code
+Sample Code:
 
 
     int main()
@@ -68,7 +68,7 @@ Sample Code
     }
 
 
-Technologies
+Technologies:
 
 
 C# .NET
@@ -77,7 +77,4 @@ Windows Forms
 
 
 
-Developer
-
-
-shahdaii1
+Developer: shahdaii1
